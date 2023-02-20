@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Wooden Cask",
+        "description": "Traditional Irish, Scottish and English Beers",
+        "location": "629 York Street, Newport, KY",
+        "rating": 5,
+        "favorite": "Newporter",
+        "website": "http://woodencask.com"
+    },
+    {
+        "id": 2,
+        "name": "Darkness Brewing",
+        "description": "Perfect nerdy atmosphere with creative beers",
+        "location": "224 Fairfield Avenue, Bellevue, KY",
+        "rating": 4.5,
+        "favorite": "Man On The Moo",
+        "website": "http://darknessbrewing.beer"
+    },
+    {
+        "id": 3,
+        "name": "Braxton Brewing",
+        "description": "More mainstream brewery with wide selection of brews.",
+        "location": "27 West 7th Street, Covington, KY",
+        "rating": 3.5,
+        "favorite": "Garage Beer",
+        "website": "http://darknessbrewing.beer"
+    }
+]
